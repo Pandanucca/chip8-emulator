@@ -1,3 +1,8 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "assert.h": "c",
+        "config.h": "c",
+        "chip8stack.h": "c"
+    }
 }
