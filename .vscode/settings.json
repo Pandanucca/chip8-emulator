@@ -3,6 +3,7 @@
     "files.associations": {
         "assert.h": "c",
         "config.h": "c",
-        "chip8stack.h": "c"
+        "chip8stack.h": "c",
+        "chip8keyboard.h": "c"
     }
 }
